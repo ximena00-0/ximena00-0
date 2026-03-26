@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Currently, starting my Capstone for my minor in Data Analytics. I will be graduating in June, then pursuing my Master's. Excited to work on redistricting a state for my group project.
 
 <!--
 **ximena00-0/ximena00-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
